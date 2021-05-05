@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 from telethon.sync import TelegramClient
 from telethon.sync import TelegramClient
-api_id = 123456
-api_hash = 'YOUR_API_HASH'
-phone = '+111111111111'
+api_id = 5785572
+api_hash = 'e22221b75676d66d6a818ad42803e972'
+phone = '+989223813406'
 client = TelegramClient(phone, api_id, api_hash)
 
